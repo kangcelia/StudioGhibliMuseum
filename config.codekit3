@@ -48,6 +48,14 @@
       "oAP" : "\/design\/structure-tags.sketch",
       "oF" : 0
     },
+    "\/dev\/content\/_footer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_footer.html",
+      "oF" : 0
+    },
     "\/dev\/content\/_header.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -70,6 +78,22 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/_new.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_photo.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_photo.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_search.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_search.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
